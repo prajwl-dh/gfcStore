@@ -12,7 +12,7 @@ if (isset($_POST['submit'])) {
 	$cpassword = md5($_POST['cpassword']);
 
 	if ($password == $cpassword) {
-		$sql = "SELECT * FROM users WHERE email='$email'";
+		$sql = "SELECT * FROM users WHERE email='$email' OR username='$username'";
 		$result = mysqli_query($conn, $sql);
 		if (!$result->num_rows > 0) {
 			$sql = "INSERT INTO users (username, email, password)
@@ -29,7 +29,7 @@ if (isset($_POST['submit'])) {
 				echo "<script>alert('Woops! Something Wrong Went.')</script>";
 			}
 		} else {
-			echo "<script>alert('Woops! Email Already Exists.')</script>";
+			echo "<script>alert('Woops! Email/Username Already Exists. Please try different credentials')</script>";
 		}
 		
 	} else {
