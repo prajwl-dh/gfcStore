@@ -1,12 +1,8 @@
 A complete web store using HTML, CSS, Javascript as frontend and pHP as backend.<br />
 <br />
-Features :<br />
-a) Add products to cart<br />
-b) Checkout<br />
-c) Fully working cart functionlity<br />
-d) Search feature<br />
-e) Admin Login feature<br />
-f) User login/signup feature<br />
+Overview :<br />
+a) Admin Page <br />
+![Sample Output](https://github.com/prajwl-dh/gfcStore/blob/master/adminPage.png)
 <br />
 How to use :<br />
 a) Install xampp<br />
