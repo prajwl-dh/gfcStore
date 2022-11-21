@@ -1,8 +1,9 @@
 A complete web store using HTML, CSS, Javascript as frontend and pHP as backend.<br />
 <br />
 Overview :<br />
-a) Admin Page <br />
-![Sample Output](https://github.com/prajwl-dh/gfcStore/blob/main/Screenshots/adminPage.png)
+1) Admin Page and features <br />
+![Sample Output](https://github.com/prajwl-dh/gfcStore/blob/main/Screenshots/adminPage.png)<br />
+![Sample Output](https://github.com/prajwl-dh/gfcStore/blob/main/Screenshots/addProductsToDatabase.png)<br />
 <br />
 How to use :<br />
 a) Install xampp<br />
