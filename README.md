@@ -14,6 +14,7 @@ Overview :<br />
 <br />
 3)Search Feature <br />
 ![Sample Output](https://github.com/prajwl-dh/gfcStore/blob/main/Screenshots/searchPage.png)<br />
+<br />
 4) Responsive design and hamburger navigation bar<br />
 ![Sample Output](https://github.com/prajwl-dh/gfcStore/blob/main/Screenshots/responsiveDesign.png)<br />
 ![Sample Output](https://github.com/prajwl-dh/gfcStore/blob/main/Screenshots/hamburgerNavbar.png)<br />
