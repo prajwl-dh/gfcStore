@@ -32,3 +32,14 @@ c) Run xampp application and start all services<br />
 d) Open a web browser, type localhost as url, and go to php my admin<br />
 e) Restore the database<br />
 f) To access the website : localhost/(Your Folder)/index.php<br />
+<br />
+
+Default Username and passwords:<br />
+1) User:<br />
+email : user@gmail.com<br />
+password : 12345<br />
+<br/>
+2) Admin:<br />
+email : admin@gmail.com<br />
+password : 12345<br />
+<br/>
