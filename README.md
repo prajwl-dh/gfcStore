@@ -4,6 +4,7 @@ Overview :<br />
 1) Admin Page and features <br />
 ![Sample Output](https://github.com/prajwl-dh/gfcStore/blob/main/Screenshots/adminPage.png)<br />
 ![Sample Output](https://github.com/prajwl-dh/gfcStore/blob/main/Screenshots/addProductsToDatabase.png)<br />
+![Sample Output](https://github.com/prajwl-dh/gfcStore/blob/main/Screenshots/removeProductsFromDatabase.png)<br />
 <br />
 How to use :<br />
 a) Install xampp<br />
