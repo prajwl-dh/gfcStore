@@ -51,6 +51,7 @@ if (isset($_POST['submit'])) {
                 <div class="allInputs">
                     <button name="submit" class="myButton"> Login </button>
                 </div>
+                <p class="signupText">Don't have an admin account ? <a href="adminSignUp.php">Sign Up</a></p>
                 <p class="signupText">Want to login as user? <a href="login.php">Click here</a></p>
             </form>
         </div>
