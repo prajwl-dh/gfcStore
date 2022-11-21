@@ -4,21 +4,26 @@ Overview :<br />
 1) Admin Page and features <br />
 ![Sample Output](https://github.com/prajwl-dh/gfcStore/blob/main/Screenshots/adminPage.png)<br />
 ![Sample Output](https://github.com/prajwl-dh/gfcStore/blob/main/Screenshots/addProductsToDatabase.png)<br />
-![Sample Output](https://github.com/prajwl-dh/gfcStore/blob/main/Screenshots/removeProductsFromDatabase.png)<br />
-2)User Section and features <br />
+![Sample Output](https://github.com/prajwl-dh/gfcStore/blob/main/Screenshots/removeProductsFromDatabase.png)<br /> 
+<br />
+
+2) User Section and features <br />
 ![Sample Output](https://github.com/prajwl-dh/gfcStore/blob/main/Screenshots/userLogin.png)<br />
 ![Sample Output](https://github.com/prajwl-dh/gfcStore/blob/main/Screenshots/mainHomePage.png)<br />
 ![Sample Output](https://github.com/prajwl-dh/gfcStore/blob/main/Screenshots/storePage.png)<br />
 ![Sample Output](https://github.com/prajwl-dh/gfcStore/blob/main/Screenshots/cartPage.png)<br />
 ![Sample Output](https://github.com/prajwl-dh/gfcStore/blob/main/Screenshots/checkoutPage.png)<br />
 <br />
-3)Search feature <br />
+
+3) Search feature <br />
 ![Sample Output](https://github.com/prajwl-dh/gfcStore/blob/main/Screenshots/searchPage.png)<br />
 <br />
+
 4) Responsive design and hamburger navigation bar<br />
 ![Sample Output](https://github.com/prajwl-dh/gfcStore/blob/main/Screenshots/responsiveDesign.png)<br />
 ![Sample Output](https://github.com/prajwl-dh/gfcStore/blob/main/Screenshots/hamburgerNavbar.png)<br />
 <br />
+
 How to use :<br />
 a) Install xampp<br />
 b) Create a folder inside xampp/htdocs<br />
